@@ -1,0 +1,11 @@
+prerequisites:
+
+python
+opencv
+pyautogui
+pydirectinput
+
+comands on terminal:
+pip install opencv-python
+pip install pyautogui
+pip install pydirectinput
